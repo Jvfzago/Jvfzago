@@ -22,6 +22,7 @@ Sou fascinado por tecnologia e focado em aprender constantemente. Tenho forte in
 #### 🤖 Pesquisa de Comportamento de LLMs em Jogos de Ética (UnB - 2025)
 * Desenvolvimento em grupo de uma base de software para simulação de um ambiente de jogo ético, focado na interação entre Inteligências Artificiais.
 * Pesquisa voltada ao estudo do comportamento de Modelos de Linguagem (LLMs) em processos de argumentação e tomada de decisão diante de dilemas éticos e cenários competitivos.
+* https://github.com/Jvfzago/Projeto-ISM-Trial-by-Trolley-LLM
 
 #### 🛒 Plataforma de Cadastro e Pesquisa de Preços (UnB - 2025)
 * Desenvolvimento colaborativo de uma plataforma web unificada para anúncio de produtos e pesquisa de preços em feiras.
