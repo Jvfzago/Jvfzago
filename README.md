@@ -28,6 +28,7 @@ Sou fascinado por tecnologia e focado em aprender constantemente. Tenho forte in
 * Desenvolvimento colaborativo de uma plataforma web unificada para anúncio de produtos e pesquisa de preços em feiras.
 * Atuação na equipe de backend utilizando **Python**, sendo responsável pela criação de objetos, documentação, testes e design de classes.
 * Aplicação prática de Programação Orientada a Objetos (POO), TDD, Scrum e Kanban.
+* https://github.com/gabrielfcastro/TP2-Projeto-Final-2025.2
 
 #### 📐 Exatas Faladas (UnB - 2025)
 * Criação de ferramentas de visualização e adaptação de material didático utilizando **Inteligência Artificial** para o ensino de cálculo e matemática para alunos com deficiências visuais.
